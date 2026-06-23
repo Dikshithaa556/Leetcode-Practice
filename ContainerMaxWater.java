@@ -1,5 +1,3 @@
-package Arrays;
-
 public class ContainerMaxWater {
     public int maxArea(int[] height) {
         int max = Integer.MIN_VALUE;
