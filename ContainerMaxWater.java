@@ -1,4 +1,4 @@
-
+package Arrays;
 
 public class ContainerMaxWater {
     public int maxArea(int[] height) {
