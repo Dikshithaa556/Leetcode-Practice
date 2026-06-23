@@ -1,5 +1,3 @@
-
-
 public class MovingZeroes {
     public void moveZeroes(int[] nums) {
         int j = 0;
