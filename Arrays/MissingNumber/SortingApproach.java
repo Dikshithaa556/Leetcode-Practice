@@ -1,4 +1,4 @@
-package MissingNumber;
+package Arrays.MissingNumber;
 
 import java.util.Arrays;
 

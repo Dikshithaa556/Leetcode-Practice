@@ -1,4 +1,4 @@
-package MissingNumber;
+package Arrays.MissingNumber;
 
 public class XorApproach {
     public int findNum(int[] nums) {
