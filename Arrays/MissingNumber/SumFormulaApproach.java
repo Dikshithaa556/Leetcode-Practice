@@ -1,4 +1,4 @@
-package MissingNumber;
+package Arrays.MissingNumber;
 
 public class SumFormulaApproach {
     public int findNum(int[] nums){

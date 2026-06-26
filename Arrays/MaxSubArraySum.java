@@ -1,4 +1,6 @@
-public class MaxSubArraySum {
+package Arrays;
+
+public class MaxSubarraySum {
     public int maxSubArray(int[] nums) {
         int currentSum = nums[0];
         int maxSum = nums[0];
