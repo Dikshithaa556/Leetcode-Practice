@@ -146,5 +146,3 @@ This repository is continuously updated as I learn new concepts and solve more p
 Feedback and suggestions are always welcome.
 
 Happy Coding;)
-
-— **Dikshithaa**
