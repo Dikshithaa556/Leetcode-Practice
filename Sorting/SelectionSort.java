@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class SelectionSort {
     public static void selectionSort(int[] arr){
-        
+
         // Based on MaxIndex
         // int position = arr.length-1;
         // for(int i=0; i<arr.length-1; i++){
